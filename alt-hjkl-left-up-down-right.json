@@ -1,5 +1,5 @@
 {
-  "description": "Change left_option + hjklnp to arrow for HHKB.",
+  "description": "left + hjkl -> direction key; ctrl +a ->line begining; ctrl+e-> line end",
   "manipulators": [
     {
       "from": {
